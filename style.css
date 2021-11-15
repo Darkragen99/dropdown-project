@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+body{
+    font-family: 'Lobster', cursive;
+    text-align: center;
+    background-image: url('https://cdn.pixabay.com/photo/2017/06/17/10/55/hot-air-balloon-2411851__340.jpg');
+    background-size: 100%;
+}
+div{
+    background-color: greenyellow;
+    border-radius: 20px;
+    margin-right: 400px;
+    margin-left: 400px;
+    border: 5px solid black;
+}
